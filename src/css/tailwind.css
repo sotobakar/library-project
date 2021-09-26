@@ -1,0 +1,16 @@
+/* ./src/css/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card {
+    @apply relative 
+    col-span-6
+    sm:col-span-3
+    h-36
+    px-6
+    py-4
+    flex flex-col;
+  }
+}

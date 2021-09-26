@@ -1,0 +1,28 @@
+{
+  "books" : [
+    {
+      "title" : "The Hobbit",
+      "author" : "J.R.R. Tolkien",
+      "pages" : 295,
+      "readStatus" : "not read yet" 
+    },
+    {
+      "title" : "The Hobbo",
+      "author" : "J.R.R. Tolky",
+      "pages" : 125,
+      "readStatus" : "on progress" 
+    },
+    {
+      "title" : "Harry Potter",
+      "author" : "J.K. Rowling",
+      "pages" : 1200,
+      "readStatus" : "not read yet" 
+    },
+    {
+      "title" : "Into The Spiderverse",
+      "author" : "Stan Lee",
+      "pages" : 84,
+      "readStatus" : "completed" 
+    }
+  ]
+}
